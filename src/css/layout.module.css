@@ -1,0 +1,61 @@
+.mainImage{
+    background-image: url(../image/develop....png);
+    background-size: cover;
+    width: 40%;
+    height: 50%;
+    margin: 0 auto;
+}
+
+.roundButton {
+    border-radius: 40%;
+    border: 1px solid black;
+}
+
+
+
+.inputBox{
+    box-sizing: border-box; 
+    border: 1px solid black;
+    width: 60%;
+    height: 50px;
+}
+
+
+.checkboxContainer {
+display: flex;
+width: 61%;
+}
+
+.button {
+    box-sizing: border-box;
+    border: 1px solid black;
+    padding: 0 110px;
+    width: 70%;
+    height: 50px;
+    cursor: pointer;
+}
+
+.loginButton {
+color: white;
+background-color: gray;
+}
+
+.kakaoButton {
+color: black;
+background-color: #FAE300;
+}
+
+.naverButton {
+color: black;
+background-color: #2DB400;
+}
+  
+.joinButton{
+    color: black;
+    background-color: white;
+}
+
+.join{
+    cursor: pointer;
+}
+
